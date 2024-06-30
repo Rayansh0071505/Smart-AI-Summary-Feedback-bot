@@ -1,0 +1,8 @@
+openai ==  0.28
+langchain == 0.1.8
+streamlit
+pydub
+numpy
+python-dotenv
+wheel
+openai-whisper
